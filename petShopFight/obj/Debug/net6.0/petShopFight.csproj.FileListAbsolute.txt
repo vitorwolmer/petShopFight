@@ -1,0 +1,15 @@
+C:\Repositorios\petShopFight\petShopFight\bin\Debug\net6.0\petShopFight.exe
+C:\Repositorios\petShopFight\petShopFight\bin\Debug\net6.0\petShopFight.deps.json
+C:\Repositorios\petShopFight\petShopFight\bin\Debug\net6.0\petShopFight.runtimeconfig.json
+C:\Repositorios\petShopFight\petShopFight\bin\Debug\net6.0\petShopFight.dll
+C:\Repositorios\petShopFight\petShopFight\bin\Debug\net6.0\petShopFight.pdb
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.csproj.AssemblyReference.cache
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.AssemblyInfoInputs.cache
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.AssemblyInfo.cs
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.csproj.CoreCompileInputs.cache
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.dll
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\refint\petShopFight.dll
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.pdb
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\petShopFight.genruntimeconfig.cache
+C:\Repositorios\petShopFight\petShopFight\obj\Debug\net6.0\ref\petShopFight.dll
