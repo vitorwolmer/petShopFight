@@ -19,7 +19,7 @@ namespace petShopFight.Classes
             this.Life = 100;
         }
 
-        public double Andar(int tempoSegundos)
+        public double Andar(int tempoSegundos )
         {
             return tempoSegundos*this.DistanciaSeg;
         }
